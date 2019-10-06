@@ -1,0 +1,4 @@
+5.假设下面的4个例子多是完整程序中的一部分，它们都输出什么结果？
+a.printf("Baa Baa Black sheep.")
+printf("Have you any wool?\n");
+b.

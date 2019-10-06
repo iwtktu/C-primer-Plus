@@ -1,0 +1,19 @@
+4.Indiana Sloth编写了下面的程序，并征求你的意见。请帮助他判定。
+include studio.h
+int main{void} /*该程序打印一年有多少周 /*
+（
+    int s
+    s: =56;
+    print(There are s weeks in a year.);
+    return 0;	
+
+答：在int s后没加；，在print函数没有加入s变量，s赋值错误；
+正解：第一行：以一个#开始；studio.h应改为stido.h;然后用尖括号把stdio.h括起来。
+第二行：把（）改为{}，注释末尾/*改为*/。
+第三行：把（改为{。
+第四行：int s末尾加上；。
+第五行：无
+第六行：把：=改为=，赋值用=，而不用：=（这说明Indiana Sloth了解Pascal）。另外，用于赋值的56也不对，一年有52周而不是56周。
+第七行：printf（“There are s weeks in a year.\n”,s）;
+第八行：无
+第九行：加上一个}

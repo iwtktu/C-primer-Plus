@@ -1,0 +1,5 @@
+3.什么是语义错误？写出一个英语例子和C语言例子。
+答：英语例子：You are your angel.
+      C语言例子：constant = constant +n;
+正解：语义错误是指含义错误。这是一个有语义错误的英语例子：This sentence is excellent Czech
+这是一个有语义错误的C语言例子：thrice_n = 3 + n;
